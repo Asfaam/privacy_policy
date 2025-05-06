@@ -3,7 +3,7 @@
 **Effective Date:** April 27, 2025  
 **Last Updated:** May 6, 2025
 
-Natembea Response Team is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and protect your information when you use our mobile application ("App") and related services.
+Natembea Response Team is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and protect your information when you use our mobile application (Natembea Response App) and related services.
 
 ---
 
